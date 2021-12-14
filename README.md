@@ -23,5 +23,3 @@ Previous searches are saved in localStorage and the five (5) most recent searche
 ## Website
 
 https://github.com/MohEssmat/weather-dashboard
-
-![web page screenshot](assets/images/Weather-Dashboard.png)
