@@ -1,28 +1,28 @@
-.search-column{
-    background-color:	#D3D3D3;
+.search-column {
+  background-color: #d3d3d3;
 }
 
-.list-group-item{
-    line-height: 0.5;
-    border: none;
+.list-group-item {
+  line-height: 0.5;
+  border: none;
 }
-.card-body{
-    flex:auto
-}
-
-span.severe{
-    padding: 3px;
-    background-color: red;
-    color:white;
+.card-body {
+  flex: auto;
 }
 
-span.moderate{
-    padding: 3px;
-    background-color: yellow;
+span.severe {
+  padding: 3px;
+  background-color: red;
+  color: white;
 }
 
-span.favorable{
-    padding: 3px;
-    background-color: green;
-    color:white;
+span.moderate {
+  padding: 3px;
+  background-color: yellow;
+}
+
+span.favorable {
+  padding: 3px;
+  background-color: green;
+  color: white;
 }

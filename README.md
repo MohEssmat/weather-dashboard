@@ -19,7 +19,3 @@ Previous searches are saved in localStorage and the five (5) most recent searche
 - Open Weather APIs - Current Weather Data, UV Index and 5 day/ 3 Hour Forecast
 - Bootstrap API
 - Moment.js API
-
-## Website
-
-https://github.com/MohEssmat/weather-dashboard
