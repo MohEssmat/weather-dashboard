@@ -164,7 +164,7 @@ var display5Day = function (weather) {
     );
 
     //append to forecast card
-    forecastEl.appendChild(weatherIcon);
+    // forecastEl.appendChild(weatherIcon);
 
     //create temperature span
     var forecastTempEl = document.createElement("span");
@@ -181,7 +181,6 @@ var display5Day = function (weather) {
     //append to forecast card
     forecastEl.appendChild(forecastHumEl);
 
-    // console.log(forecastEl);
     //append to five day container
     forecastContainerEl.appendChild(forecastEl);
   }
